@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491230454693",
+    "project_id": "running-fire",
+    "storage_bucket": "running-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491230454693:android:480e188c4f053abe96fe4c",
+        "android_client_info": {
+          "package_name": "com.example.runningfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491230454693-qnuga75675leg2mjpgvibgh41a8rh69k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCp03glGO6hej2ybeGppTvRONS5h7dJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491230454693-qnuga75675leg2mjpgvibgh41a8rh69k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
