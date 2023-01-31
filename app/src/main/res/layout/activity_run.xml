@@ -9,9 +9,9 @@
         android:id="@+id/stopbtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="166dp"
         android:layout_marginTop="544dp"
         android:text="Finish"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -19,10 +19,11 @@
         android:id="@+id/stepstxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="78dp"
         android:layout_marginTop="237dp"
         android:text="Steps"
+        android:textStyle="bold"
         android:textSize="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -30,10 +31,11 @@
         android:id="@+id/stepcount"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="109dp"
         android:layout_marginTop="296dp"
         android:text="0"
-        android:textSize="15dp"
+        android:textSize="20dp"
+        android:textColor="#00e400"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
